@@ -14,7 +14,7 @@ setup(
     install_requires=['setuptools'],
     zip_safe=True,
     maintainer='kiwi101117',
-    maintainer_email='kiwi101117@todo.todo',
+    maintainer_email='kiwi101117@gmail.com',
     description='TODO: Package description',
     license='TODO: License declaration',
     extras_require={
@@ -24,6 +24,7 @@ setup(
     },
     entry_points={
         'console_scripts': [
+            'bump_go_main = br2_fsm_bumpgo_py.bump_go_main:main'
         ],
     },
 )

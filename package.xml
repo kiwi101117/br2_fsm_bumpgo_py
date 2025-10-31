@@ -3,8 +3,8 @@
 <package format="3">
   <name>br2_fsm_bumpgo_py</name>
   <version>0.0.0</version>
-  <description>TODO: Package description</description>
-  <maintainer email="kiwi101117@todo.todo">kiwi101117</maintainer>
+  <description>book_ros2 practice, finite state machine, bump and go</description>
+  <maintainer email="kiwi101117@gmail.com">kiwi101117</maintainer>
   <license>TODO: License declaration</license>
 
   <depend>sensor_msgs</depend>

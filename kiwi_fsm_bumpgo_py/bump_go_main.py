@@ -10,7 +10,7 @@ from rclpy.duration import Duration
 
 class BumpGoNode(Node):
     def __init__(self):
-        super().__init__('bump_go')
+        super().__init__('bump_go_kiwi')
         self.get_logger().info('Selfmade BumpGoNode initialized')
 
         self.FORWARD = 0
